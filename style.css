@@ -1,0 +1,46 @@
+body {
+    background: #ffda22;
+    font-family: Roboto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+main {
+    background: red;
+    border-radius: 5px;
+    width: 375px;
+    text-align: center;
+    
+                                       
+}
+.top { 
+    height: 120px;
+    border-radius: 5px;
+    color: white;
+
+}
+.middle {
+     background: white;
+    height: 115px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 115px;
+    font-family: cursive;
+    font-size: 5rem;
+
+}
+.bottom { 
+    height: 20px;
+    border-radius: 5px;
+    color: white;
+
+}
+.hello {
+    font-size: 4.5rem;
+    line-height: 1;
+}
+.my-name-is {
+    font-size: 2rem;
+}
