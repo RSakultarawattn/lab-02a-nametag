@@ -1,5 +1,5 @@
 body {
-    background: #ffda22;
+    background: #14c52c;
     font-family: Roboto;
     display: flex;
     justify-content: center;
@@ -7,8 +7,8 @@ body {
     min-height: 100vh;
 }
 main {
-    background: red;
-    border-radius: 5px;
+    background: rgb(173, 14, 14);
+    border-radius: 20px;
     width: 375px;
     text-align: center;
     
@@ -22,13 +22,13 @@ main {
 }
 .middle {
      background: white;
-    height: 115px;
+    height: 120px;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 115px;
     font-family: cursive;
-    font-size: 5rem;
+    font-size: 4rem;
 
 }
 .bottom { 
